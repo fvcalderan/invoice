@@ -11,7 +11,7 @@ Generate PDF invoices using JSON files as input
 BSD 3-Clause License
 Copyright (c) 2024, Felipe V. Calderan
 All rights reserved.
-See the full license inside LICENSE.txt file
+Read the full license inside LICENSE file
 ```
 
 ## Requirements
